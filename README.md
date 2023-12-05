@@ -1,4 +1,4 @@
 # OS issue tracker / Трекер проблем ОС
 
-See the [issue
-tracker](https://github.com/osissuestracker/os-issue-tracker/issues).
+See the / Смотрите раздел [issue
+tracker/Трекер проблем](https://github.com/osissuestracker/os-issue-tracker/issues).
